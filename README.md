@@ -25,8 +25,6 @@ Some of the key findings from the analysis include:
 
 *   Weather and road conditions play a significant role in the likelihood and severity of accidents.
 
-*   The type of vehicle involved in the accident is also a factor in the likelihood and severity of the accident.
-
 **Conclusion**
 --------------
 
