@@ -21,14 +21,13 @@ The data was cleaned and analyzed using Python and several libraries, including 
 
 Some of the key findings from the analysis include:
 
-*   Accidents are more likely to occur on certain days of the week and at certain times of the day.
+*   
 
-*   Weather and road conditions play a significant role in the likelihood and severity of accidents.
+*   
 
 **Conclusion**
 --------------
 
-The analysis of US accidents data using Python has allowed us to gain valuable insights into the causes and characteristics of accidents in the US. These insights can be used by policymakers and other stakeholders to develop strategies for reducing the number and severity of accidents in the future.
 
 **Credits**
 -----------
